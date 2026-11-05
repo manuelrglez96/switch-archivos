@@ -1,0 +1,54 @@
+{
+  "sources": [
+    {
+      "name": "gba roms",
+      "folder": "gba",
+      "identifier": "tsf-2002-gba-roms-collection"
+    },
+    {
+      "name": "nes roms",
+      "folder": "nes",
+      "identifier": "3DBlockAsiaHwangShinweUnl"
+    },
+    {
+      "name": "snes roms",
+      "folder": "snes",
+      "identifier": "roms-snes-smc-3126-jogosj"
+    },
+    {
+      "name": "wii roms",
+      "folder": "wii",
+      "identifier": "redumpwiipalrvz"
+    },
+    {
+      "name": "Gamecube roms",
+      "folder": "gc",
+      "identifier": "gamecube-roms-backup"
+    },
+    {
+      "name": "genesis/megadrive roms",
+      "folder": "genesis",
+      "identifier": "megadrive-03.01.2021"
+    },
+    {
+      "name": "master-system roms",
+      "folder": "master-system",
+      "identifier": "master_system"
+    },
+    {
+      "name": "game-gear roms",
+      "folder": "game-gear",
+      "identifier": "sega-game-gear-roms-usa"
+    },
+    {
+      "name": "psp roms",
+      "folder": "psp",
+      "identifier": "PSP_EU_Arquivista"
+    },
+    {
+      "name": "psx roms",
+      "folder": "psx",
+      "identifier": "chd_psx_eur"
+    }
+  ]
+}
