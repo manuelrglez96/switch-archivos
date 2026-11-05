@@ -1,54 +1,42 @@
-{
-  "sources": [
-    {
-      "name": "gba roms",
-      "folder": "gba",
-      "identifier": "tsf-2002-gba-roms-collection"
-    },
-    {
-      "name": "nes roms",
-      "folder": "nes",
-      "identifier": "3DBlockAsiaHwangShinweUnl"
-    },
-    {
-      "name": "snes roms",
-      "folder": "snes",
-      "identifier": "roms-snes-smc-3126-jogosj"
-    },
-    {
-      "name": "wii roms",
-      "folder": "wii",
-      "identifier": "redumpwiipalrvz"
-    },
-    {
-      "name": "Gamecube roms",
-      "folder": "gc",
-      "identifier": "gamecube-roms-backup"
-    },
-    {
-      "name": "genesis/megadrive roms",
-      "folder": "genesis",
-      "identifier": "megadrive-03.01.2021"
-    },
-    {
-      "name": "master-system roms",
-      "folder": "master-system",
-      "identifier": "master_system"
-    },
-    {
-      "name": "game-gear roms",
-      "folder": "game-gear",
-      "identifier": "sega-game-gear-roms-usa"
-    },
-    {
-      "name": "psp roms",
-      "folder": "psp",
-      "identifier": "PSP_EU_Arquivista"
-    },
-    {
-      "name": "psx roms",
-      "folder": "psx",
-      "identifier": "chd_psx_eur"
-    }
-  ]
-}
+[
+  {
+    "name": "gba roms",
+    "url": "tsf-2002-gba-roms-collection"
+  },
+  {
+    "name": "nes roms",
+    "url": "3DBlockAsiaHwangShinweUnl"
+  },
+  {
+    "name": "snes roms",
+    "url": "roms-snes-smc-3126-jogosj"
+  },
+  {
+    "name": "wii roms",
+    "url": "redumpwiipalrvz"
+  },
+  {
+    "name": "Gamecube roms",
+    "url": "gamecube-roms-backup"
+  },
+  {
+    "name": "genesis/megadrive roms",
+    "url": "megadrive-03.01.2021"
+  },
+  {
+    "name": "master-system roms",
+    "url": "master_system"
+  },
+  {
+    "name": "game-gear roms",
+    "url": "sega-game-gear-roms-usa"
+  },
+  {
+    "name": "psp roms",
+    "url": "PSP_EU_Arquivista"
+  },
+  {
+    "name": "psx roms",
+    "url": "chd_psx_eur"
+  }
+]
